@@ -28,7 +28,7 @@ WebSea - это мощный и элегантный инструмент ком
 1. Клонируйте репозиторий:
 
 ```bash
-git clone https://github.com/yourusername/websea.git
+git clone https://github.com/tripofobik/WebSea.git
 cd websea
 ```
 
