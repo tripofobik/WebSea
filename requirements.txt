@@ -1,0 +1,19 @@
+# Core dependencies
+rich>=13.7.0
+requests>=2.31.0
+python-whois>=0.8.0
+dnspython>=2.6.0
+
+# Optional dependencies for better performance
+concurrent-futures>=3.0.5
+
+# Security dependencies
+certifi>=2024.2.2
+urllib3>=2.2.0
+idna>=3.6
+charset-normalizer>=3.3.2
+
+# Development dependencies (optional)
+black>=24.2.0  # For code formatting
+flake8>=7.0.0  # For code linting
+pytest>=8.0.0  # For testing 
